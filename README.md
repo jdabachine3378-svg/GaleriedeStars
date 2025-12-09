@@ -202,6 +202,10 @@ Voir `gradle/libs.versions.toml` pour les versions exactes.
 
 
 
+
+https://github.com/user-attachments/assets/dbd92dae-30fb-4798-9937-3a5dbd242b96
+
+
 ##  Auteur
 jamila dabachine
 Projet créé dans le cadre d'un cours Android.
