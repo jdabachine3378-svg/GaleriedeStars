@@ -1,0 +1,49 @@
+LISTE DES IMAGES À AJOUTER DANS LE DOSSIER: app/src/main/assets/
+
+1. leonardo_dicaprio.png
+   - Leonardo DiCaprio
+   - Portrait professionnel, costume bleu marine, cravate à pois
+
+2. jennifer_lawrence.png
+   - Jennifer Lawrence
+   - Portrait, cheveux châtains clairs, veste sombre
+
+3. tom_hanks.png
+   - Tom Hanks
+   - Portrait mi-corps, costume sombre, nœud papillon noir
+
+4. meryl_streep.png
+   - Meryl Streep
+   - Portrait professionnel, cheveux blonds, collier de perles
+
+5. brad_pitt.png
+   - Brad Pitt
+   - Portrait, cheveux bruns courts, débardeur blanc
+
+6. emma_stone.png
+   - Emma Stone
+   - Portrait, cheveux châtains avec reflets roux
+
+7. robert_downey_jr.png
+   - Robert Downey Jr.
+   - Portrait professionnel, barbe taillée, chemise rayée
+
+8. scarlett_johansson.png
+   - Scarlett Johansson
+   - Portrait, cheveux blonds bouclés, rouge à lèvres rouge
+
+9. denzel_washington.png
+   - Denzel Washington
+   - Portrait professionnel, barbe et moustache taillées
+
+10. natalie_portman.png
+    - Natalie Portman
+    - Portrait en pied, robe rouge, collier scintillant
+
+INSTRUCTIONS:
+- Copiez ces 10 fichiers images dans le dossier app/src/main/assets/
+- Les noms doivent être EXACTEMENT comme indiqué ci-dessus
+- Format recommandé: PNG avec fond transparent
+- Taille recommandée: 300x300 ou 400x400 pixels (carré)
+- L'application chargera automatiquement ces images au démarrage
+

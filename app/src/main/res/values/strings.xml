@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StarsGallery</string>
+    <string name="search_hint">Rechercher une star...</string>
+    <string name="share_app">Partager l\'application</string>
+    <string name="share_text">Découvrez StarsGallery, une application pour noter vos stars préférées!</string>
+    <string name="rating_dialog_title">Modifier la note</string>
+    <string name="save">Enregistrer</string>
+    <string name="cancel">Annuler</string>
+    <string name="average_rating">Note moyenne: %.1f</string>
+</resources>

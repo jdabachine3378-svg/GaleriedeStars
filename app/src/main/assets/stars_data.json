@@ -1,0 +1,75 @@
+{
+  "stars": [
+    {
+      "id": 1,
+      "name": "Leonardo DiCaprio",
+      "rating": 4.5,
+      "imageResId": "star_1",
+      "imageAssetName": "leonardo_dicaprio.png"
+    },
+    {
+      "id": 2,
+      "name": "Jennifer Lawrence",
+      "rating": 4.7,
+      "imageResId": "star_2",
+      "imageAssetName": "jennifer_lawrence.png"
+    },
+    {
+      "id": 3,
+      "name": "Tom Hanks",
+      "rating": 4.8,
+      "imageResId": "star_3",
+      "imageAssetName": "tom_hanks.png"
+    },
+    {
+      "id": 4,
+      "name": "Meryl Streep",
+      "rating": 4.9,
+      "imageResId": "star_4",
+      "imageAssetName": "meryl_streep.png"
+    },
+    {
+      "id": 5,
+      "name": "Brad Pitt",
+      "rating": 4.6,
+      "imageResId": "star_5",
+      "imageAssetName": "brad_pitt.png"
+    },
+    {
+      "id": 6,
+      "name": "Emma Stone",
+      "rating": 4.4,
+      "imageResId": "star_6",
+      "imageAssetName": "emma_stone.png"
+    },
+    {
+      "id": 7,
+      "name": "Robert Downey Jr.",
+      "rating": 4.5,
+      "imageResId": "star_7",
+      "imageAssetName": "robert_downey_jr.png"
+    },
+    {
+      "id": 8,
+      "name": "Scarlett Johansson",
+      "rating": 4.6,
+      "imageResId": "star_8",
+      "imageAssetName": "scarlett_johansson.png"
+    },
+    {
+      "id": 9,
+      "name": "Denzel Washington",
+      "rating": 4.7,
+      "imageResId": "star_9",
+      "imageAssetName": "denzel_washington.png"
+    },
+    {
+      "id": 10,
+      "name": "Natalie Portman",
+      "rating": 4.5,
+      "imageResId": "star_10",
+      "imageAssetName": "natalie_portman.png"
+    }
+  ]
+}
+
